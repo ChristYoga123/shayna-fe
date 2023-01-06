@@ -14,7 +14,7 @@
                     </div>
                 </div>
             </div>
-        </div>i al
+        </div>
         <!-- Breadcrumb Section End -->
 
         <!-- Product Shop Section Begin -->
